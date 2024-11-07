@@ -7,7 +7,7 @@
 제 github 아이디는
 
 -joosungeom
--namhegg(6조 nhs)
+
 
 
 
