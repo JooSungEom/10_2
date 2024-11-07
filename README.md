@@ -7,6 +7,7 @@
 제 github 아이디는
 
 -joosungeom
+-GrayOM
 
 
 
