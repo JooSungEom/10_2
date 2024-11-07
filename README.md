@@ -6,8 +6,7 @@
 
 제 github 아이디는
 
--joosungeom <br>
--Sungmin214
+-joosungeom
 
 
 
